@@ -2,8 +2,8 @@
 
 ## Student Details
 
-**Name:** Aarav Sciju  
-**Registration Number:** 25BCE10099  
+**Name:** Mayank Sharma  
+**Registration Number:** 25BCE10272  
 **Branch:** CSE Core  
 **Year:** First Year (2025–2029)  
 **University:** VIT Bhopal University  
